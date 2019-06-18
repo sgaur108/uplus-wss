@@ -3,22 +3,22 @@ header,
 .product-icon,
 main .secondary-options .front-option::after,
 .benefits li::after {
-	background-color: #D31D36;
+	background-color: #24292E;
 }
 
 header .menu-overlay a:hover,
 header .menu-overlay a:active,
 header .menu-overlay a:focus {
-	background-color: #D31D36;
+	background-color: #24292E;
 	color: #FFF;
 }
 
 body .color-brand {
-	color: #D31D36;
+	color: #24292E;
 }
 
 .border-brand {
-	border-color: #D31D36;
+	border-color: #24292E;
 }
 
 /* Home page */
